@@ -1,2 +1,1 @@
-# airflow-dashboards
-Grafana dashboards and StatsD exporter config for Airflow monitoring
+# Grafana dashboards and StatsD-exporter mappings for Airflow monitoring
